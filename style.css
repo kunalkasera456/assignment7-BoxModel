@@ -1,0 +1,44 @@
+h1{
+    background-color: rgb(211, 18, 18); color: white;
+    text-align: center;
+    border: 2px; 
+    padding: 15px;
+    border: 4px;
+    margin: 15px;
+}
+div{
+       margin: 40px;
+       margin-left: 300px;
+}
+.bella{ border:3px solid rgb(223, 209, 184); width: 150px;
+     text-align: center;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 335px;
+   }
+   .watch{
+    border:3px solid rgb(250, 91, 17); 
+    width: 250px; height: 10px;
+    text-align: center;
+    background-color: rgb(245, 58, 25); color: white;
+   padding: 10px;
+   margin: 30px;
+   margin-bottom: 5px;
+   margin-left: 285px;
+  
+   }
+   .watchlater{ border: 2px solid red; width: 250px; height: 12px;
+    text-align: center;
+   padding: 10px;
+   margin: 10px;
+   margin-left: 285px;
+   }
+   .nit{ background-color: rgb(211, 18, 18); 
+    text-align: center;
+    border: 2px;
+    padding: 15px;
+    border: 4px;
+    margin: 15px;
+      
+   }
+
